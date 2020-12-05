@@ -1,0 +1,129 @@
+.jumbotron {
+    background-color: #27B7EB;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    height: calc(70vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+
+  .footer {
+    background-color: #27B7EB;
+    height: 150px;
+    display: flex;
+    height: calc(10vh - 25px);
+  }
+
+  .row.no-gutter {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .row > div {
+    background: #none;
+    border: none;
+  }
+  
+  div.text-center {
+    background-color: #27B7EB;
+ 
+  }
+
+  .row {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .row1 {
+    align-items: center;
+    justify-content: center;
+  }
+  .row2 {
+    align-items: left;
+    justify-content: left;
+    background: none;
+  }
+
+  .nopadding > div[class^="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.divContent {
+  background-color: #27B7EB;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+
+.divContent1 {
+  background-color: none;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+
+
+.divContent2 {
+  background-color: #27B7EB;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-bottom: 50px;
+  padding-left: 15px;
+}
+
+.divContent3 {
+  background-color: #27B7EB;
+  padding-top: 50px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+}
+
+.divContent4 {
+  background-color: none;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+}
+
+.jumbotron2 {
+  background-color: #27B7EB;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200px;
+  height: calc(60vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+
+  p2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  .jumbotron3 {
+    background-color: #27B7EB;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+    .outer-image-container { 
+      max-width: 500px;
+  }
